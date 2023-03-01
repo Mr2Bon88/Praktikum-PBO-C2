@@ -1,6 +1,6 @@
 /**
 *
- * File      : MOperasiTitik.java		01/03/23
+ * File      : MOperasiTitik.java		22/02/23
  * Penulis   : Altaf Ariestian Kusuma Rahmat
  * Deskripsi : Kelas yang berisi Titik
  * 
